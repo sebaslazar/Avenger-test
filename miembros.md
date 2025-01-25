@@ -19,3 +19,5 @@
 * Antman
 
 * Iron Mandingo 
+* Thor-gasmo
+* Petera Negra
