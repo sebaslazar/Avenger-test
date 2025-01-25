@@ -21,3 +21,4 @@
 * Iron Mandingo 
 * Thor-gasmo
 * Petera Negra
+* El Tira Flechas
